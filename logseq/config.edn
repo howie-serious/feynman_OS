@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["案例拆解：lyt system" "home"]
+ :favorites ["home" "changelog，系统迭代日志" "readme" "案例拆解：lyt system"]
 
  ;; Set flashcards interval.
  ;; Expected value:
