@@ -1,4 +1,5 @@
-tags:: #p1-🫐seed-种子
+tags:: #p1-🫐seed-种子, #⚙️费曼学习OS, #s5-★★★★★ 
+exclude-from-graph-view:: true
 
 - ## inbox
 - ## todo

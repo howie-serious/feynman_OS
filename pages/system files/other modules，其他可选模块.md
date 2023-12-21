@@ -1,5 +1,7 @@
-tags:: #p5-🌲evergreen-长青, #s1-★☆☆☆☆
+tags:: #⚙️费曼学习OS, #p5-🌲evergreen-长青, #s1-★☆☆☆☆
+exclude-from-graph-view:: true
 
+-
 - Journals
 	- > Logseq 的内置模块，可以选择是否开启。
 	  按需选用。如果选用，可以按照日期来简单记录自己当天所学。不建议作为日记系统来使用，而是作为**个人学习日志**。

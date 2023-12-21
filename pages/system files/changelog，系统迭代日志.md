@@ -1,6 +1,85 @@
 tags:: #p1-🫐seed-种子 #s5-★★★★★ #⚙️费曼学习OS
+exclude-from-graph-view:: true
 
 - > 像开发一个软件产品一样维护你的这个[[⚙️费曼学习OS]]，在此页面记录本系统的迭代内容
-- 231221：
+- ## changelog
+	- 231221：
+		- improve 首页：更清晰、更简洁
+		- improve graph 展示：所有系统文件不展示在 graph 中；
+	- 231220：new 模板系统，同步到 GitHub 仓库，便于分享给学员；
+- ## todo
+  collapsed:: true
+	- 知识体系实例
+		- TODO coding 知识体系
+		- TODO GPT 知识体系
+		- TODO serious 知识体系
+		- TODO 费曼学习法知识体系
+	- TODO template：知识树模板
+	- TODO 在费曼学习 OS 的模板中加入logseq 大法
+		-
+	- outbox
+		- 走完学习闭环，记录你的全部输出
+		- #twitter
+		- #youtube
+		- #newsletter
+	- 知识砖块可以进一步细分
+		- #facts-事实性知识
+			- 一般情况下不需要记录为笔记；只有特别重要的 facts 才可以单独用笔记整理。
+			- 例如，历年结婚离婚生育数据；
+		- #concepts-概念
+			-
+		- #mental-models-思维模型
+			- 提供示例，芒格的 100 思维模型
+	- resource 可以进一步细分
+	  collapsed:: true
+		- 书
+			- resource/book
+		- 文
+			- resource/article
+			- resource/paper
+		- 思
+			-
+		- 人
+			- resource/people
+		- 媒
+			- resource/music
+			- resource/movie
+			- resource/tv
+			- resource/video
+			- resource/podcast
+			- resource/tool
+			- resource/course
+			-
+	- 生活方面，人可以细分
+	  collapsed:: true
+		- smaller circles
+			- the core 5
+		- bigger circles
+			- 社交圈
+		- special areas
+			- 偶像
+	- 生活方面：health
+		- logs：生病记录
+		- 运动目标、思考、数据
+	- 生活方面：finance
+		- 保险
+		- 房屋
+		- 投资
+		- 账单开支
+	- 人生目标 life map
+		- 我的角色
+		- 年度总结、年度复盘 plans and reviews
+		- 年度目标
+		- 我的使命、宣言、价值观
+		- 我的讣告
+	- 知识管理 OS、PKM、费曼学习 OS
+	  collapsed:: true
+		- 文件夹
+		- 标签
+		- 笔记类型
+		- metadata
+		-
+	- library，杜威十进制分类、Wikipedia 分类
+		- 000 -
+		- 100
 	-
-- 231220：建立模板系统，便于分享给学员；
