@@ -1,4 +1,5 @@
 exclude-from-graph-view:: true
+tags:: #⚙️费曼学习OS
 
 - > 这里是“费曼学习 OS”的设计文件。可以按需调整。分类标签：#⚙️费曼学习OS
 - [[📝 note types，笔记类型]]

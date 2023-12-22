@@ -9,4 +9,3 @@ exclude-from-graph-view:: true
 	- > Logseq 的内置模块，可以选择是否开启。
 - Flashcards
 	- > logseq 内置功能，可以作为`简化版 anki`。也可以通过 logseq 的 anki 插件，实现Logseq 中 flashcard 同步至anki。
--
