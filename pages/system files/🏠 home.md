@@ -22,6 +22,9 @@ exclude-from-graph-view:: true
 	- 知识树视图 bok perspective
 		- #[[🌲BoK-知识树]]
 		- #🧱bricks-知识砖块
+			- #🧱bricks-知识砖块/facts-事实性知识
+			- #🧱bricks-知识砖块/concepts-概念
+			- #🧱bricks-知识砖块/mental-models-思维模型
 	- 成熟度视图 maturity perspective
 		- #p1-🫐seed-种子
 		- #p2-🌱sprout-萌芽
@@ -36,13 +39,24 @@ exclude-from-graph-view:: true
 		- #s1-★☆☆☆☆
 	- GTD 视图 GTD perspective
 		- #000-📥inbox
-		- #zzz-📦archive
+		- #zzz-📦archive-归档库
+			- #zzz-📤outbox-费曼输出
+				- #zzz-📤outbox-费曼输出/卡片输出
+				- #zzz-📤outbox-费曼输出/文章输出
+				- #zzz-📤outbox-费曼输出/视频输出
+				- #zzz-📤outbox-费曼输出/podcast输出
+				- #zzz-📤outbox-费曼输出/直播输出
 	- 分类视图 classification perspective
 		- > 经典的杜威十进制分类，请参考《知识管理 OS》训练营的对应课程。
 		- #100-👷Job-工作
 		- #200-🧑‍🎓learning-学习
 			- #💎resources-资源
+			- #✅SOP-清单与流程
+			- #📋template-内容模板
 		- #300-🌈life-生活
+			- #👫friends&people-人是社会动物
+			- #🏃‍♂️health&activity-运动健康
+			- #🤑finance-财务管理
 		- #400-😝interest-兴趣
 - ## ⚙️ 费曼学习OS
 	- > 这里是`费曼学习 OS`的系统文件，当可以按需调整。分类标签：#⚙️费曼学习OS （凡是打这个标签的，都是系统文件，在`system files`文件夹中。更新时手动替换此文件夹即可）

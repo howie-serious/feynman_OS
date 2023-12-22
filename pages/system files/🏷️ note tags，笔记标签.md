@@ -2,6 +2,7 @@ tags:: #p5-🌲evergreen-长青, #⚙️费曼学习OS, #s5-★★★★★
 exclude-from-graph-view:: true
 
 - 维度1 **ever-green tags** 成熟度标签
+  collapsed:: true
 	-
 	- > 按照卡片笔记的内容成熟度进行标记，小能熊 5 分制，直接按照 p1-p5 来记忆；
 	  这套 tag，融合了GTD 的思想（inbox、working-on、maybe-someday、archive）与长青笔记（种子、萌芽、抽条、开花、长青）的思想；
@@ -18,6 +19,7 @@ exclude-from-graph-view:: true
 	- #p5-🌲evergreen-长青
 		- > 2W2H的内容都比较丰富，能为我所用，一次比较完整的费曼
 - 维度2 **importance tags** 重要性标签
+  collapsed:: true
 	- > 按照卡片笔记的重要性进行标记，小能熊 5 分制，直接用 s1-s5 来记忆。
 	  这套 tag 非必须，但是建议采用，会推动你思考这个笔记卡片的价值。
 	- #s5-★★★★★
@@ -31,6 +33,7 @@ exclude-from-graph-view:: true
 	- #s1-★☆☆☆☆
 		- > 非常不重要
 - 维度3 **classification tags** 领域分类标签
+  collapsed:: true
 	- #+BEGIN_QUOTE
 	  - 必选：inbox、archive
 	  - 可选：杜威十进制分类体系（100、200、300、400），此外，还可以通过 101.1 等小数点形式进一步细分
@@ -45,7 +48,7 @@ exclude-from-graph-view:: true
 		- > 理论是灰色的，生活的金树长青
 	- #400-😝interest-兴趣
 		- > 严肃的兴趣、欢乐与痛苦
-	- #zzz-📦archive
+	- #zzz-📦archive-归档库
 		- > 某些笔记可能只是一时兴起，短期内不准备研究，可以使用这个标签。
 		  包含内容：已完成的项目、旧文件。
 		-
