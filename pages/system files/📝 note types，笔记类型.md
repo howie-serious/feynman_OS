@@ -1,15 +1,15 @@
 tags:: #⚙️费曼学习OS, #p4-🌸flowering-开花, #s5-★★★★★
 exclude-from-graph-view:: true
 
-- [[BoK notes]] **知识树笔记**
+- [[🌲 BoK notes，知识树笔记]] **知识树笔记**
 	- 对某个主题的知识树梳理，直观展示你在这个领域的个人知识体系积累
 	- 页面标签：#🌲BoK-知识树
 	- 举例： [[logseq大法]]
 	- > 对于有明确目标、明确截止期限的、项目性质比较重的，可以单独建立logseq 知识库（graph），并采用单独的标签 #🏗️projects-项目
-- [[card notes]] **卡片笔记**
+- [[🗂️ card notes，卡片笔记]] **卡片笔记**
 	- 一个卡片就是一个知识砖块（事实性知识、概念、模型、原理）
 	- 页面标签：#🧱bricks-知识砖块
-	- 举例：[[page tags，页面标签]]
+	- 举例： [[logseq/如何把logseq仓库publish为网页和spa应用？]]
 	- > 99%的笔记文件，都属于这一类；就好像 Wikipedia 的数千万页面，大部分都是普通的词条页面；因此，无需手动打标签；
 - [[resource notes]] **资源笔记**
 	- 一个卡片对应一个学习资源（书本、课程、歌曲、电影、软件工具等）
@@ -19,6 +19,6 @@ exclude-from-graph-view:: true
 - [[meta files]] **系统文件**
 	- 用于搭建维护本系统的特殊页面
 	- 页面标签：#⚙️费曼学习OS
-	- 举例： [[note tags，笔记标签]]、 [[note templates，笔记模板]]、以及本页面 `note types，笔记类型`
+	- 举例： [[🏷️ note tags，笔记标签]]、 [[📋 note templates，笔记模板]]、以及本页面 `note types，笔记类型`
 	- > 这一类文件是“元笔记”，一般笔记记录的是你的所学，这些元笔记是用于搭建和维护这个系统。
 	  所有 meta files都已经添加页面属性`exclude-from-graph-view:: true`，不展示在你的知识图谱中。从而保证知识图谱的纯粹性（只展示笔记内容）。

@@ -2,6 +2,7 @@ tags:: #p5-🌲evergreen-长青, #⚙️费曼学习OS, #s5-★★★★★
 exclude-from-graph-view:: true
 
 - 维度1 **ever-green tags** 成熟度标签
+	-
 	- > 按照卡片笔记的内容成熟度进行标记，小能熊 5 分制，直接按照 p1-p5 来记忆；
 	  这套 tag，融合了GTD 的思想（inbox、working-on、maybe-someday、archive）与长青笔记（种子、萌芽、抽条、开花、长青）的思想；
 	  这套 tag 建议对每一张卡片都采用。
