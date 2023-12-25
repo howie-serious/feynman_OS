@@ -57,6 +57,7 @@ exclude-from-graph-view:: true
 			- #👫friends&people-人是社会动物
 			- #🏃‍♂️health&activity-运动健康
 			- #🤑finance-财务管理
+			- #😂dad-jokes&小树jokes
 		- #400-😝interest-兴趣
 - ## ⚙️ 费曼学习OS
 	- > 这里是`费曼学习 OS`的系统文件，当可以按需调整。分类标签：#⚙️费曼学习OS （凡是打这个标签的，都是系统文件，在`system files`文件夹中。更新时手动替换此文件夹即可）

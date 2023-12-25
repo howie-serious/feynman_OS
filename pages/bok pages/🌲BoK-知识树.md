@@ -7,4 +7,4 @@ exclude-from-graph-view:: true
 	- [[104-熊做到app]]
 	- [[105-feynman-daily-费曼日报]]
 - [[200-🧑‍🎓learning-学习]]
-	- [[logseq大法]]
+	- [[examples-logseq大法]]

@@ -1,3 +1,4 @@
+exclude-from-graph-view:: true, 
 tags:: #⚙️费曼学习OS, #s5-★★★★★, #p1-🫐seed-种子
 
 - ### 设计原则 design guidelines

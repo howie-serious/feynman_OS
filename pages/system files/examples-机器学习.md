@@ -1,7 +1,7 @@
 tags:: #p1-🫐seed-种子, #000-📥inbox, #🧱bricks-知识砖块
 
-- 这是一个 brick notes的示例，请删除。
-- 
+- > 这是一个 brick notes的示例，请删除。
+-
 - ## inbox
 - ## todo
 - ## why
@@ -9,5 +9,5 @@ tags:: #p1-🫐seed-种子, #000-📥inbox, #🧱bricks-知识砖块
 - ## how
 - ## how good
 - ## ref.
-	- [[AI]]
+	- [[examples-AI]]
 - ## archive

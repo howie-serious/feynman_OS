@@ -2,7 +2,10 @@ tags:: #p1-🫐seed-种子 #s5-★★★★★ #⚙️费曼学习OS
 exclude-from-graph-view:: true
 
 - > 像开发一个软件产品一样维护你的这个[[⚙️费曼学习OS]]，在此页面记录本系统的迭代内容
--
+- 231225:
+	- `improve` Logseq template：书影音资源模板、2w2h 费曼笔记模板；
+- 231223:
+	- `improve` 系统架构：所有示例笔记都修改命名，同意增加了example。避免导入后出现同名笔记，需要手动删除。
 - 231222：
 	- `new` 系统架构：标签体系层级（费曼输出的几种形式、SOP、template）；
 	- `improve` home：emojify，凡是系统文件和系统 tag，都添加了 emoji，作为视觉区分；
