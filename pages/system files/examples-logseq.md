@@ -1,4 +1,4 @@
-tags:: #p1-🫐seed-种子, #💎resources-资源
+tags:: #p1-🫐seed-种子, #💎resources-资源, #example-files, 
 
 - 这是一个 brick notes的示例，请删除。
 - ## inbox

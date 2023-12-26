@@ -1,3 +1,6 @@
+tags:: #example-files, 
+
+
 - #+BEGIN_NOTE
   这是我的一条笔记，不“整洁”但是真实，而且有用。
   - @howie.serious 

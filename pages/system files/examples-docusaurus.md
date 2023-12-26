@@ -1,4 +1,4 @@
-tags:: #zzz-📦archive-归档库,
+tags:: #zzz-📦archive-归档库, #example-files, 
 
 - 这是一个 brick notes的示例，请删除。
 - ## inbox

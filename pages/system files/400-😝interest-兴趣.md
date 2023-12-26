@@ -1,3 +1,6 @@
+exclude-from-graph-view:: true
+tags:: #⚙️费曼学习OS, #p1-🫐seed-种子, #s5-★★★★★
+
 - TODO 按个人实际需求修改
 - #401-LEGO-寓教于乐，必须一起
 - #402-PoemSerious-我阅读、翻译的诗
