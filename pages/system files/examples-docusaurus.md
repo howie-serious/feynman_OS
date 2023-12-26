@@ -1,7 +1,6 @@
-tags:: #zzz-📦archive-归档库 ,
+tags:: #zzz-📦archive-归档库,
 
-这是一个 brick notes的示例，请删除。
-
+- 这是一个 brick notes的示例，请删除。
 - ## inbox
 - ## todo
 	- DONE 用docusaurus 搭建个人博客
@@ -13,3 +12,5 @@ tags:: #zzz-📦archive-归档库 ,
 - ## ref.
 - ## archive
 	-
+-
+-

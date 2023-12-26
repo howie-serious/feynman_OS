@@ -33,7 +33,6 @@ exclude-from-graph-view:: true
 	- #s1-★☆☆☆☆
 		- > 非常不重要
 - 维度3 **classification tags** 领域分类标签
-  collapsed:: true
 	- #+BEGIN_QUOTE
 	  - 必选：inbox、archive
 	  - 可选：杜威十进制分类体系（100、200、300、400），此外，还可以通过 101.1 等小数点形式进一步细分

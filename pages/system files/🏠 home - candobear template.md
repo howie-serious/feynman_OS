@@ -6,12 +6,15 @@ exclude-from-graph-view:: true
 - > 这是小能熊`费曼学习 OS` 的首页，也是你的知识管理系统的全局地图。请根据实际需求作出合理调整。不求完美，但求在实际使用中不断迭代。
   祝你学习快乐！ - @howie.serious
 - ## 📥 inbox 收集箱
+  collapsed:: true
 	- > 顾名思义，就是一个 inbox。请定期清空，让知识流动起来，让学习走完闭环。流水不腐户枢不蠹……你懂的。
 	- #000-📥inbox
 - ## 🏗️ projects 项目
+  collapsed:: true
 	- > 对于有明确目标、明确截止期限的、**项目性质**比较重的，可以**单独建立logseq 知识库（graph）**。#🏗️projects-项目
 	- {{query (page-property :tags "#🏗️projects-项目")}}
 - ## 🌲 BoK 知识体系
+  collapsed:: true
 	- > 1、哪怕有 10000 条笔记，也自动构成一个有序的个人知识体系。
 	  2、通过多个视图（perspective），再多的笔记也可以轻松驾驭（当然，最重要的是搜索功能）。
 	  3、`知识树视图`：查看你当前的知识体系以及知识砖块；

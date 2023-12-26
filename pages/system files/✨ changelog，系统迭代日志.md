@@ -5,6 +5,7 @@ exclude-from-graph-view:: true
 - 231226:
 	- `improve` system files 文件夹 📂 ：全部system files都移入此文件夹。用户文件全部放在bok files 和 brick files 两个文件夹中；便于迭代；
 	- `improve` home page：使用 query 来动态查询项目和知识树；
+	- `improve` 📂 note hierarchy 笔记层级体系设计：resource 类笔记的二级分类、对应的Logseq 内容模板；
 - 231225:
 	- `improve` Logseq template：书影音资源模板、2w2h 费曼笔记模板；
 - 231223:

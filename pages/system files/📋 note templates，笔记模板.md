@@ -2,13 +2,12 @@ tags:: #p3-🪴budding-抽条, #⚙️费曼学习OS, #s5-★★★★★
 exclude-from-graph-view:: true
 
 - > 这是小能熊`费曼学习 OS`的通用笔记模板。请根据个人实际需求增加、删除、修改。
-- ### resources
-  collapsed:: true
+- ### resources：资源类笔记的专用模板；
 	- movie journal
 	  template:: movie journal
 	  template-including-parent:: false
 	  collapsed:: true
-		- TODO title:: 
+		- title:: 
 		  director:: 
 		  release-year:: 
 		  watch-date:: <%today%>
@@ -102,7 +101,6 @@ exclude-from-graph-view:: true
 		- ## archive.
 		-
 - ### routines
-  collapsed:: true
 	- daily routine
 	  template:: daily routine
 	  collapsed:: true
@@ -120,7 +118,7 @@ exclude-from-graph-view:: true
 		- TODO
 		- TODO
 - ### 费曼学习OS
-	- **2w2h费曼笔记模板** ：candobear 2w2h feynman notes template
+	- **2w2h费曼笔记模板** ：candobear 2w2h feynman notes template，基本适合所有笔记；
 	  template:: 2w2h feynman model
 	  template-including-parent:: false
 	  collapsed:: true
