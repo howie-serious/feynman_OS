@@ -2,6 +2,9 @@ tags:: #p1-🫐seed-种子 #s5-★★★★★ #⚙️费曼学习OS
 exclude-from-graph-view:: true
 
 - > 像开发一个软件产品一样维护你的这个[[⚙️费曼学习OS]]，在此页面记录本系统的迭代内容
+- 231226:
+	- `improve` system files 文件夹 📂 ：全部system files都移入此文件夹。用户文件全部放在bok files 和 brick files 两个文件夹中；便于迭代；
+	- `improve` home page：使用 query 来动态查询项目和知识树；
 - 231225:
 	- `improve` Logseq template：书影音资源模板、2w2h 费曼笔记模板；
 - 231223:
