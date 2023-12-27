@@ -1,7 +1,6 @@
 exclude-from-graph-view:: true
 
 - 二级分类
-  collapsed:: true
 	- #💎resources-资源/articles
 	- #💎resources-资源/books
 	- #💎resources-资源/courses
