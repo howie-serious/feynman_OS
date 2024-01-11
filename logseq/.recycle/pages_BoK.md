@@ -1,4 +1,0 @@
-- [[git 大法]]
-- [[obsidian 大法]]
-- [[logseq大法]]
--
