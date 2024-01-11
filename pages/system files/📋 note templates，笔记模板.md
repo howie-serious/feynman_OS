@@ -6,9 +6,7 @@ exclude-from-graph-view:: true
 	- movie journal
 	  template:: movie journal
 	  template-including-parent:: false
-	  collapsed:: true
-		- title:: 
-		  director:: 
+		- director:: 
 		  release-year:: 
 		  watch-date:: <%today%>
 		  note-date:: <%today%>
@@ -33,9 +31,7 @@ exclude-from-graph-view:: true
 	- video journal
 	  template:: video journal
 	  template-including-parent:: false
-	  collapsed:: true
-		- title:: 
-		  watch-date:: <%today%>
+		- watch-date:: <%today%>
 		  note-date:: <%today%>
 		  tags:: #💎resources-资源/videos
 		- videos checklist
@@ -55,9 +51,7 @@ exclude-from-graph-view:: true
 	- documentary journal
 	  template:: documentary journal
 	  template-including-parent:: false
-	  collapsed:: true
-		- title:: 
-		  watch-date:: <%today%>
+		- watch-date:: <%today%>
 		  note-date:: <%today%>
 		  my-rating:: 
 		  tags:: #💎resources-资源/documentaries
@@ -78,12 +72,10 @@ exclude-from-graph-view:: true
 	- book journal
 	  template:: book journal
 	  template-including-parent:: false
-	  collapsed:: true
-		- title::  
-		  author:: 
+		- author:: 
 		  publish-year:: 
 		  start-reading:: <%today%>
-		  finish-reading:: <%today%>
+		  finish-reading:: 
 		  my-rating:: 
 		  tags:: #💎resources-资源/books
 		- book checklist
@@ -100,7 +92,29 @@ exclude-from-graph-view:: true
 		- ## related.
 		- ## archive.
 		-
+	- course journal
+	  template:: course journal
+	  template-including-parent:: false
+		- link::
+		  instructors:: 
+		  start-learning:: <%today%>
+		  finish-learning:: 
+		  my-rating:: 
+		  tags:: #💎resources-资源/courses
+		- ## why
+		- ## what
+		- ## how
+		- ## how good
+		- ## inbox
+		- ## todo
+		- ## ref.
+		  collapsed:: true
+			- TODO link
+		- ## related.
+		- ## archive.
+		-
 - ### routines
+  collapsed:: true
 	- daily routine
 	  template:: daily routine
 	  collapsed:: true
@@ -118,11 +132,12 @@ exclude-from-graph-view:: true
 		- TODO
 		- TODO
 - ### 费曼学习OS
-	- **2w2h费曼笔记模板** ：candobear 2w2h feynman notes template，基本适合所有笔记；
-	  template:: 2w2h feynman model
+	- **2w2h费曼笔记模板** ：candobear note template，用于知识砖块类笔记；
+	  template:: 2w2h note template
 	  template-including-parent:: false
 	  collapsed:: true
-		- tags:: #000-📥inbox,
+		- tags:: #000-📥inbox, #p1-🫐seed-种子,  
+		  note-date:: <%today%>
 		- ## why
 		- ## what
 		- ## how
@@ -131,5 +146,17 @@ exclude-from-graph-view:: true
 		- ## todo
 		- ## ref.
 		- ## archive.
-			- note-date: <%today%>
-		-
+	- **知识树模板** ：candobear bok template，用于知识树笔记；
+	  template:: bok template
+	  template-including-parent:: false
+	  collapsed:: true
+		- tags:: #🌲BoK-知识树, #p1-🫐seed-种子, #s5-★★★★★ 
+		  note-date:: <%today%>
+		- ## why
+		- ## what
+		- ## how
+		- ## how good
+		- ## inbox
+		- ## todo
+		- ## resources
+		- ## archive

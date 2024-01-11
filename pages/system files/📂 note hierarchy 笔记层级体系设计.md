@@ -10,10 +10,8 @@ exclude-from-graph-view:: true
 		- 基本上这个模板的笔记体系设计已经够用了。关键在于使用。不要过度设计。
 - ### 层级体系 hierarchy
 	- #000-📥inbox
-	  collapsed:: true
 		- > 没必要细分。inbox 的关键是定期清空。没必要有层级和分类。层级和分类应该在知识库主体中进行。
 	- #zzz-📦archive-归档库
-	  collapsed:: true
 		- > 归档库的价值：所有发布的内容，最后可以打包，便于ChatGPT 调用或微调。确实可以通过各个平台渠道来一个个单独导出并整理，但是效率和效果肯定都不如在自己的知识管理流程中，在输出环节直接搞定。
 		- > 对输出的细分，是对`费曼输出`的有效反馈：清楚看到自己费曼了多少
 		- #zzz-📤outbox-费曼输出/卡片输出 发布渠道：小能熊 BBS、Twitter、朋友圈
@@ -22,10 +20,8 @@ exclude-from-graph-view:: true
 		- #zzz-📤outbox-费曼输出/podcast输出 发布渠道：小宇宙、内驱式学习 podcast
 		- #zzz-📤outbox-费曼输出/直播输出 发布渠道：熊直播
 	- #100-👷Job-工作
-	  collapsed:: true
 		- > 没必要细分。与其细分，不如把工作精专作为一个单独的项目，建立一个单独的知识库。这样，也能清楚看到自己在专业上的投入和积累。
 	- #200-🧑‍🎓learning-学习
-	  collapsed:: true
 		- > 大部分内容是无需分类的。只把 SOP、template、resources 这几个特征显著的大类分出来即可。
 		- #💎resources-资源
 		  collapsed:: true
@@ -43,7 +39,6 @@ exclude-from-graph-view:: true
 		- #✅SOP-清单与流程
 		- #📋template-内容模板
 	- #300-🌈life-生活
-	  collapsed:: true
 		- > 内容本来就少，而且不重要，不建议更细的分类；
 		- #300-🌈life-生活/👫friends&people-人是社会动物 在历史的垃圾时间里，人与生活的意义愈发显现。
 			- #👫friends&people-人是社会动物/smaller-circles
@@ -55,6 +50,5 @@ exclude-from-graph-view:: true
 		- #300-🌈life-生活/🏃‍♂️health&activity-运动健康 运动 app 与健康 app，是苹果 OS 中最重要的两个 app。我们的知识管理系统中，亦如是。
 		- #300-🌈life-生活/🤑finance-财务管理 金钱，一种比时间和注意力更不值钱（得多）的资源，但是也加上吧。
 	- #400-😝interest-兴趣
-	  collapsed:: true
 		- 严肃的兴趣：建议根据实际情况建立项目，用单独的知识库来管理。
 		- 例如，如果你有一个兴趣是 Python 编程或者拍视频拍照，那么，建立一个单独的知识库吧。这样能清楚看到自己的投入和积累。
