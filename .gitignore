@@ -1,7 +1,11 @@
-logseq/bak/
-journals/
+/node_modules
+/.nbb
+/.cpcache
 .DS_Store
-design files/
-logseq/.recycle/
-pages/.DS_Store
-pages/system files/.DS_Store
+src/feynman_OS/logseq/bak/
+src/feynman_OS/logseq/.recycle/
+src/feynman_OS/logseq/pages/design files/
+src/feynman_OS/logseq/pages/.DS_Store
+src/feynman_OS/logseq/pages/system files/.DS_Store
+# src/feynman_OS/journals/
+# test/
