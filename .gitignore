@@ -4,8 +4,11 @@
 .DS_Store
 src/feynman_OS/logseq/bak/
 src/feynman_OS/logseq/.recycle/
-src/feynman_OS/logseq/pages/design files/
-src/feynman_OS/logseq/pages/.DS_Store
-src/feynman_OS/logseq/pages/system files/.DS_Store
+src/feynman_OS/pages/design files/
+src/feynman_OS/pages/.DS_Store
+src/feynman_OS/pages/system files/.DS_Store
 # src/feynman_OS/journals/
 # test/
+
+# src/feynman_OS/pages/design files
+# /Users/howie.serious/Library/Mobile Documents/iCloud~com~logseq~logseq/Documents/template-费曼学习OS/src/feynman_OS/pages/design files

@@ -8,7 +8,7 @@ jobs:
     name: Publish Logseq graph
     steps:
       - uses: actions/checkout@v3
-      - uses: logseq/publish-spa@v0.3.1  # 是否需要修改版本号？
+      - uses: logseq/publish-spa@v0.3.1  # 必须修改为最新的版本号，否则网站没有内容
         with:
           graph-directory: src/feynman_OS # 修改logseq路径
       - name: Add a nojekyll file # to make sure asset paths are correctly identified
