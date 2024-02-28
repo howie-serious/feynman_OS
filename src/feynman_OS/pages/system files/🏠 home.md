@@ -1,3 +1,4 @@
+public:: true
 tags:: #p3-🪴budding-抽条, #⚙️费曼学习OS, #s5-★★★★★, #需要用户自定义的system-files,
 exclude-from-graph-view:: true
 

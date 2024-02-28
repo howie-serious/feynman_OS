@@ -1,3 +1,4 @@
+public:: true
 tags:: #p1-🫐seed-种子 #s5-★★★★★ #⚙️费曼学习OS
 exclude-from-graph-view:: true
 
