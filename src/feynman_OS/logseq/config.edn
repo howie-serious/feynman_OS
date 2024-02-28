@@ -414,4 +414,5 @@
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
  :default-home {:page "🏠 home"}
- :feature/enable-whiteboards? false}
+ :feature/enable-whiteboards? false
+ :publishing/all-pages-public? true }
