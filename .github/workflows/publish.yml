@@ -1,6 +1,4 @@
-on: 
-  push:
-  workflow_dispatch: # 修改，手动触发
+on: [push]
 
 permissions:
   contents: write
@@ -9,11 +7,9 @@ jobs:
     runs-on: ubuntu-latest
     name: Publish Logseq graph
     steps:
-      - uses: actions/checkout@v4.1.1
-      - uses: logseq/publish-spa@v0.3.1
-        with:
-          graph-directory: src/feynman_OS # 修改logseq路径
-      - name: add a nojekyll file # to make sure asset paths are correctly identified
+      - uses: actions/checkout@v3
+      - uses: logseq/publish-spa@v0.3.0
+      - name: Add a nojekyll file # to make sure asset paths are correctly identified
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
