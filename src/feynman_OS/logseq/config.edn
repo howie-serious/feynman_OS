@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["🌲bok-知识树" "🏠 home - candobear template" "🏠 home - candobear" "🏠 home - template" "💡 迭代ideas" "迭代ideas" "🌲 bok-知识树" "✨ changelog，系统迭代日志" "✨changelog，系统迭代日志" "🏠home" "home" "changelog，系统迭代日志" "readme" "案例拆解：lyt system"]
+ :favorites ["🏠 home" "🌲bok-知识树" "🏠 home - candobear template" "🏠 home - candobear" "🏠 home - template" "💡 迭代ideas" "迭代ideas" "🌲 bok-知识树" "✨ changelog，系统迭代日志" "✨changelog，系统迭代日志" "🏠home" "home" "changelog，系统迭代日志" "readme" "案例拆解：lyt system"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -411,4 +411,7 @@
  ;;   - :triple-lowbar (default)
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
- :file/name-format :triple-lowbar}
+ :file/name-format :triple-lowbar
+ :feature/enable-journals? false
+ :default-home {:page "🏠 home"}
+ :feature/enable-whiteboards? false}
