@@ -6,10 +6,11 @@ exclude-from-graph-view:: true
 	- movie journal
 	  template:: movie journal
 	  template-including-parent:: false
+	  collapsed:: true
 		- director:: 
 		  release-year:: 
-		  watch-date:: <%today%>
-		  note-date:: <%today%>
+		  watch-date:: 
+		  iteration:: 
 		  my-rating:: 
 		  tags:: #💎resources-资源/movies
 		  family-movie::
@@ -31,8 +32,9 @@ exclude-from-graph-view:: true
 	- video journal
 	  template:: video journal
 	  template-including-parent:: false
-		- watch-date:: <%today%>
-		  note-date:: <%today%>
+	  collapsed:: true
+		- watch-date:: 
+		  iteration:: 
 		  tags:: #💎resources-资源/videos
 		- videos checklist
 			- TODO seen?
@@ -51,8 +53,9 @@ exclude-from-graph-view:: true
 	- documentary journal
 	  template:: documentary journal
 	  template-including-parent:: false
-		- watch-date:: <%today%>
-		  note-date:: <%today%>
+	  collapsed:: true
+		- watch-date:: 
+		  iteration:: 
 		  my-rating:: 
 		  tags:: #💎resources-资源/documentaries
 		- videos checklist
@@ -72,10 +75,12 @@ exclude-from-graph-view:: true
 	- book journal
 	  template:: book journal
 	  template-including-parent:: false
+	  collapsed:: true
 		- author:: 
 		  publish-year:: 
-		  start-reading:: <%today%>
+		  start-reading:: 
 		  finish-reading:: 
+		  iteration:: 
 		  my-rating:: 
 		  tags:: #💎resources-资源/books
 		- book checklist
@@ -95,10 +100,12 @@ exclude-from-graph-view:: true
 	- course journal
 	  template:: course journal
 	  template-including-parent:: false
+	  collapsed:: true
 		- link::
 		  instructors:: 
-		  start-learning:: <%today%>
-		  finish-learning:: 
+		  start-learning:: 
+		  finish-learning::
+		  iteration::  
 		  my-rating:: 
 		  tags:: #💎resources-资源/courses
 		- ## why
@@ -114,7 +121,6 @@ exclude-from-graph-view:: true
 		- ## archive.
 		-
 - ### routines
-  collapsed:: true
 	- daily routine
 	  template:: daily routine
 	  collapsed:: true
@@ -135,9 +141,8 @@ exclude-from-graph-view:: true
 	- **2w2h费曼笔记模板** ：candobear note template，用于知识砖块类笔记；
 	  template:: 2w2h note template
 	  template-including-parent:: false
-	  collapsed:: true
-		- tags:: #000-📥inbox, #p1-🫐seed-种子,  
-		  note-date:: <%today%>
+		- tags:: #000-📥inbox, #p1-🫐seed-种子, #s3-★★★☆☆ 
+		  iteration::
 		- ## why
 		- ## what
 		- ## how
@@ -149,9 +154,8 @@ exclude-from-graph-view:: true
 	- **知识树模板** ：candobear bok template，用于知识树笔记；
 	  template:: bok template
 	  template-including-parent:: false
-	  collapsed:: true
 		- tags:: #🌲BoK-知识树, #p1-🫐seed-种子, #s5-★★★★★ 
-		  note-date:: <%today%>
+		  iteration::
 		- ## why
 		- ## what
 		- ## how

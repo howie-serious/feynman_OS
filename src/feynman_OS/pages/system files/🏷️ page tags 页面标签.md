@@ -1,9 +1,6 @@
 tags:: #p1-🫐seed-种子, #⚙️费曼学习OS, #s5-★★★★★ 
 exclude-from-graph-view:: true
 
-- ## inbox
-- ## todo
--
 - ## why
 - ## what
 	- page tags, 页面标签
@@ -19,7 +16,9 @@ exclude-from-graph-view:: true
 	- 点击页面标签，可以看到全部相关笔记
 	  collapsed:: true
 		- ![](https://img.candobear.com/CleanShot%202023-12-20%20at%2016.29.54@2x.png){:height 348, :width 471}
+- ## inbox
+- ## todo
+-
 - ## ref.
 	- [Three power-tools I wish I'd known about when I started using Logseq - Look what I built - Logseq](https://discuss.logseq.com/t/three-power-tools-i-wish-id-known-about-when-i-started-using-logseq/1683)
 - ## archive
--

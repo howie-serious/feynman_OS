@@ -12,5 +12,5 @@ exclude-from-graph-view:: true
 	- #💎resources-资源/TV
 	- #💎resources-资源/videos
 - 对应模板
-	- [[📋 note templates，笔记模板]]
+	- [[📋 note templates 笔记模板]]
 -
