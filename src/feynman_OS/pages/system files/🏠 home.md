@@ -9,6 +9,7 @@ exclude-from-graph-view:: true
 	  query-sort-by:: page
 	  query-sort-desc:: false
 - ## 🌲 BoK 个人知识体系
+  collapsed:: true
 	- #[[🌲 BoK-知识树]]
 		- {{query (page-property :tags [[🌲 BoK-知识树]])}}
 - ## 🔎 分类查看
