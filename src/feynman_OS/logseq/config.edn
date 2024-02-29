@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["👆 examples" "🌲 bok-知识树" "examples" "🏠 home" "🌲bok-知识树" "✨ changelog 系统迭代日志" "🏠 home - candobear template" "🏠 home - candobear" "🏠 home - template" "💡 迭代ideas" "迭代ideas" "✨ changelog，系统迭代日志" "✨changelog，系统迭代日志" "🏠home" "home" "changelog，系统迭代日志" "readme" "案例拆解：lyt system"]
+ :favorites ["🏠 home" "examples" "🌲 bok-知识树" "👆 examples" "✨ changelog 系统迭代日志" "🏠 home - candobear template" "🏠 home - candobear" "🏠 home - template" "💡 迭代ideas" "迭代ideas" "✨ changelog，系统迭代日志" "✨changelog，系统迭代日志" "🏠home" "home" "changelog，系统迭代日志" "readme" "案例拆解：lyt system"]
 
  ;; Set flashcards interval.
  ;; Expected value:
