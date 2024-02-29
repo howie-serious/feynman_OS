@@ -12,7 +12,7 @@ exclude-from-graph-view:: true
 		  watch-date:: 
 		  iteration:: 
 		  my-rating:: 
-		  tags:: #💎resources-资源/movies
+		  tags:: #[[💎resources 资源/movies]]
 		  family-movie::
 		- movie checklist
 			- TODO 豆瓣短评
@@ -35,7 +35,7 @@ exclude-from-graph-view:: true
 	  collapsed:: true
 		- watch-date:: 
 		  iteration:: 
-		  tags:: #💎resources-资源/videos
+		  tags:: #[[💎resources 资源/videos]]
 		- videos checklist
 			- TODO seen?
 			- TODO note-taking? thinking about it?
@@ -57,7 +57,7 @@ exclude-from-graph-view:: true
 		- watch-date:: 
 		  iteration:: 
 		  my-rating:: 
-		  tags:: #💎resources-资源/documentaries
+		  tags:: #[[💎resources 资源/documentaries]]
 		- videos checklist
 			- TODO seen?
 			- TODO note-taking? thinking about it?
@@ -82,7 +82,7 @@ exclude-from-graph-view:: true
 		  finish-reading:: 
 		  iteration:: 
 		  my-rating:: 
-		  tags:: #💎resources-资源/books
+		  tags:: #[[💎resources 资源/books]]
 		- book checklist
 			- TODO 豆瓣短评
 		- ## why
@@ -107,7 +107,7 @@ exclude-from-graph-view:: true
 		  finish-learning::
 		  iteration::  
 		  my-rating:: 
-		  tags:: #💎resources-资源/courses
+		  tags:: #[[💎resources 资源/courses]]
 		- ## why
 		- ## what
 		- ## how
@@ -154,7 +154,7 @@ exclude-from-graph-view:: true
 	- **知识树模板** ：candobear bok template，用于知识树笔记；
 	  template:: bok template
 	  template-including-parent:: false
-		- tags:: #🌲BoK-知识树, #p1-🫐seed-种子, #s5-★★★★★ 
+		- tags:: #[[🌲 BoK-知识树]], #p1-🫐seed-种子, #s5-★★★★★ 
 		  iteration::
 		- ## why
 		- ## what

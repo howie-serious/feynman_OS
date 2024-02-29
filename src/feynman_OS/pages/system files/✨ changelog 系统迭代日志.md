@@ -2,15 +2,18 @@ public:: true
 tags:: #p1-🫐seed-种子 #s5-★★★★★ #⚙️费曼学习OS
 exclude-from-graph-view:: true
 
-- > 像开发一个软件产品一样维护你的这个[[⚙️费曼学习OS]]，在此页面记录本系统的迭代内容
+- > 笔记不只是笔记而已，而是你的思考过程，是你自己。
+  这是你一生的笔记系统。像迭代一个软件产品一样迭代你的这个[[⚙️费曼学习OS]]。
 - 240229:
-	- `add`: 把本笔记系统发布为网站 notes.candobear.com，便于直观体验使用效果；
-	- `improve`：笔记模板中的`note-date`属性更新为`iteration`，强化长青笔记在持续迭代理念；
+	- `add` 把本笔记系统发布为网站 [notes.candobear.com](https://notes.candobear.com)，便于直观体验使用效果；
+	- `breaking change` 只保留首页功能，把home页面中的说明性文字迁移到单独页面，重构 home 页面使其更纯粹简洁
+	- `improve` 笔记模板中的`note-date`属性更新为`iteration`，强化长青笔记在持续迭代理念；
 	  collapsed:: true
 		- ![](https://img.candobear.com/202402290950332.png)
 		- 例如，这是我的一条多次迭代的笔记
 			- ![](https://img.candobear.com/202402290952312.png)
-	- 其他小更新；
+	- `imptove` 更新了[[👆 examples]]页面；
+	- 其他很多小修改；
 - 231231:
 	- `fix` ：删除模板中的`title`字段，因为留空白会导致文件冲突（title属性=笔记文件名，出现多个文件名为空白的笔记，logseq 索引会报错）；
 - 231230:
