@@ -6,7 +6,8 @@ exclude-from-graph-view:: true
   这是你一生的笔记系统。像迭代一个软件产品一样迭代你的这个[[⚙️费曼学习OS]]。
 - 240229:
 	- `add` 把本笔记系统发布为网站 [notes.candobear.com](https://notes.candobear.com)，便于直观体验使用效果；
-	- `breaking change` 只保留首页功能，把home页面中的说明性文字迁移到单独页面，重构 home 页面使其更纯粹简洁
+	- `breaking change` 只保留首页功能，把home页面中的说明性文字迁移到单独页面，重构 home 页面使其更纯粹简洁；
+	- `add` flashcards，直接体验学习笔记与记忆卡片无缝整合，“内置 anki” 的效果；
 	- `improve` 笔记模板中的`note-date`属性更新为`iteration`，强化长青笔记在持续迭代理念；
 	  collapsed:: true
 		- ![](https://img.candobear.com/202402290950332.png)

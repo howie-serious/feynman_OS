@@ -164,3 +164,9 @@ exclude-from-graph-view:: true
 		- ## todo
 		- ## resources
 		- ## archive
+- ## notes
+	- 为什么在笔记模板的页面属性中增加`iteration`？ #card
+		- 用于记录你对笔记砖块（note block，也是你大脑中的知识砖块）的每一次迭代；
+		- 知识的内化，不一定需要背诵。对于出了校门的人，应用是更好的内化方式；
+		- 量化，直观地体现你对此知识砖块的学习过程；
+	-
