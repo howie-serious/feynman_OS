@@ -1,4 +1,4 @@
-name: 'Logseq Publish SPA'
+name: 'Logseq Publish SPA' 
 description: 'Publishes a Logseq graph as a Single Page Application (SPA)'
 inputs:
   graph-directory:
@@ -34,8 +34,8 @@ runs:
         ref: ${{ inputs.version }}
 
     ## Placed here since node step requires it
-    - name: Checkout action
-      uses: actions/checkout@v3
+    - name: Checkout action 
+      uses: actions/checkout@v3 
       with:
         repository: logseq/publish-spa
         path: .logseq-publish-spa
