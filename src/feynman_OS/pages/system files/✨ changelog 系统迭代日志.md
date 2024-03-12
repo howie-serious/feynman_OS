@@ -4,6 +4,8 @@ exclude-from-graph-view:: true
 
 - > 笔记不只是笔记而已，而是你的思考过程，是你自己。
   这是你一生的笔记系统。像迭代一个软件产品一样迭代你的这个[[⚙️费曼学习OS]]。
+- 240312:
+	- `improve` 笔记仓库从icloud Drive 中迁出；
 - 240229:
 	- `add` 把本笔记系统发布为网站 [notes.candobear.com](https://notes.candobear.com)，便于直观体验使用效果；
 	- `breaking change` 只保留首页功能，把home页面中的说明性文字迁移到单独页面，重构 home 页面使其更纯粹简洁；
