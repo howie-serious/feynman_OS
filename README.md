@@ -4,6 +4,16 @@
 
 这是@howie.serious 的《费曼学习法》在笔记落地环节的示范项目。请直接通过网站体验效果。体验后有兴趣，则通过RELEASES 下载 logseq 模板。
 
+### 实际案例
+
+此外，我还把我自己的所有笔记（除了以前 evernote 中的一万多条）也上线为一个网站。你可以把它看作是我的数字花园，看作是learn in public 理念、小能熊学习理念的一个实例。
+
+[howie 的学习笔记系统](https://todayilearned.candobear.com/)
+
+除了学习笔记之外，我们还会有读书、读文章、看知识视频的笔记。这些笔记，我也单独建立了一个 logseq 笔记库，通过插件打通了 readwise reader、微信读书的划线和笔记内容。我也单独上线为一个网站，你可以把它看作是 read in public理念、小能熊每日阅读、严肃阅读的一个实例。
+
+[howie 的阅读笔记系统](https://todayiread.candobear.com/)
+
 ## how
 
 ### 初次安装
